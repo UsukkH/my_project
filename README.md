@@ -87,15 +87,7 @@
     <header>
         <nav>
             <ul>
-                <li><a href="home-btn.html">Нүүр хуудас</a></li>
-                <li><a href="blog.html">Загварын нийтлэлүүд</a></li>
-                <li><a href="store.html">Өдөр тутмын загвар</a></li>
-                <li><a href="contact.html"> Тансаг загвар</a></li>
-                <li><a href="05.html">Эрэгтэй хувцас</a></li>
-                <li><a href="06.html">Эмэгтэй хувцас</a></li>
-                <li><a href="07.html">Спорт загвар</a></li>
-                <li><a href="08.html">Улирлын загвар</a></li>
-                <li><a href="09.html">Загварын зөвлөгөө</a></li>
+                
                 
                 
             </ul>
